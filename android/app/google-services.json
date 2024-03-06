@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691973408383",
+    "project_id": "notebook-5e487",
+    "storage_bucket": "notebook-5e487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691973408383:android:b4227ded522f81fb27a14a",
+        "android_client_info": {
+          "package_name": "com.netsupport.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqNLaa5dOV_wYhR3KRwTx4PggO8JpYzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
